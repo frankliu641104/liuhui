@@ -5,8 +5,7 @@
 ## Photos
 <audio controls>
   <source src=Doe Eyes (Love Theme from the Bridges of Madison County) (Reprise)_256k.mp3 type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+ </audio>
 
 
 ## Timeline
