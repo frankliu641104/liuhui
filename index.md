@@ -4,7 +4,7 @@
 ![My Brother](TimePhoto_20250827_201052.jpg)
 ## Photos
 
-![My Brother](TimePhoto_20250827_201052.jpg)
+
 
 ## Timeline
 
