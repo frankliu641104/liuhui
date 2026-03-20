@@ -3,11 +3,11 @@
 # **In Memory of My Brother (1972–2022)**
 ![My Brother](TimePhoto_20250827_201052.jpg)
 ## Photos
+<audio controls>
+  <source src=Doe Eyes (Love Theme from the Bridges of Madison County) (Reprise)_256k.mp3 type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
-<video width="100%" controls>
-  <source src=20250827.mp4 type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Timeline
 
