@@ -2,6 +2,19 @@
 
 # **In Memory of My Brother (1972–2022)**
 ![My Brother](TimePhoto_20250827_201052.jpg)
+## Photos
+
+![My Brother](TimePhoto_20250827_201052.jpg)
+
+## Timeline
+
+- **1972** — Born on March 3  
+- **Teen years** — Left home seeking peace  
+- **Age 19** — Early marriage; became father  
+- **Later years** — Adopted and cared for my son  
+- **May 2022** — Cancer diagnosis  
+- **August 28, 2022** — Passed away
+
 ## Early Life  
 My brother was born on March 3, 1972, in a harsh rural countryside where life offered little comfort and even less protection. From the beginning, he faced a world that demanded more from him than any child should ever have to give. Food was scarce, care was inconsistent, and the emotional landscape of our home was shaped by a mother whose anger and instability fell hardest on him. He endured scolding, humiliation, and physical harm that no child should ever experience. These early wounds forced him to grow up long before his time.  
 Yet even in those conditions, he developed a quiet resilience — a strength that would carry him through the rest of his life.
