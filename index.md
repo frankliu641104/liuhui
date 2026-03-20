@@ -5,7 +5,7 @@
 ## Photos
 
 <video width="100%" controls>
-  <source src="YOUR_VIDEO_F20220827.mp4" type="video/mp4">
+  <source src="YOUR_VIDEO_20220827.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
