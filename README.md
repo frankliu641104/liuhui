@@ -42,4 +42,4 @@ He lives on in the people he helped, in the love he gave, and in the quiet stren
 
 ---
 
-If you want, I can help you add **a photo section**, **a timeline**, or **a simple navigation layout** so the page feels complete and polished.
+
